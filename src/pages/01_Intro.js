@@ -17,6 +17,7 @@ const Intro = () => {
       <br />
 
       <Typography variant="h6">찾아오시는 길(약도)</Typography>
+      <p>최선을 다하겠습니다</p>
     </Box>
   );
 };
